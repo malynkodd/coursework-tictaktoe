@@ -1,0 +1,51 @@
+C:\Users\malyn\OneDrive\Рабочий стол\TIC TAC TOE\bin\Debug\Alien Invaders.exe.config
+C:\Users\malyn\OneDrive\Рабочий стол\TIC TAC TOE\bin\Debug\Alien Invaders.exe
+C:\Users\malyn\OneDrive\Рабочий стол\TIC TAC TOE\bin\Debug\Alien Invaders.pdb
+C:\Users\malyn\OneDrive\Рабочий стол\TIC TAC TOE\obj\Debug\coursework.csproj.AssemblyReference.cache
+C:\Users\malyn\OneDrive\Рабочий стол\TIC TAC TOE\obj\Debug\Alien_Invaders.Properties.Resources.resources
+C:\Users\malyn\OneDrive\Рабочий стол\TIC TAC TOE\obj\Debug\coursework.csproj.GenerateResource.cache
+C:\Users\malyn\OneDrive\Рабочий стол\TIC TAC TOE\obj\Debug\coursework.csproj.CoreCompileInputs.cache
+C:\Users\malyn\OneDrive\Рабочий стол\TIC TAC TOE\obj\Debug\Alien Invaders.exe
+C:\Users\malyn\OneDrive\Рабочий стол\TIC TAC TOE\obj\Debug\Alien Invaders.pdb
+C:\Users\malyn\OneDrive\Рабочий стол\TIC TAC TOE\obj\Debug\Alien_Invaders.frmLogin.resources
+C:\Users\malyn\OneDrive\Рабочий стол\TIC TAC TOE\obj\Debug\Alien_Invaders.frmRegister.resources
+C:\Users\malyn\OneDrive\Рабочий стол\TIC TAC TOE\obj\Debug\TicTacToe.Form1.resources
+C:\Users\Work\Desktop\TIC TAC TOE\obj\Debug\coursework.csproj.AssemblyReference.cache
+C:\Users\Work\Desktop\TIC TAC TOE\obj\Debug\TicTacToe.Form1.resources
+C:\Users\Work\Desktop\TIC TAC TOE\obj\Debug\Alien_Invaders.frmLogin.resources
+C:\Users\Work\Desktop\TIC TAC TOE\obj\Debug\Alien_Invaders.frmRegister.resources
+C:\Users\Work\Desktop\TIC TAC TOE\obj\Debug\Alien_Invaders.Properties.Resources.resources
+C:\Users\Work\Desktop\TIC TAC TOE\obj\Debug\coursework.csproj.GenerateResource.cache
+C:\Users\Work\Desktop\TIC TAC TOE\obj\Debug\coursework.csproj.CoreCompileInputs.cache
+C:\Users\Work\Desktop\TIC TAC TOE\obj\Debug\Alien Invaders.exe
+C:\Users\Work\Desktop\TIC TAC TOE\obj\Debug\Alien Invaders.pdb
+C:\Users\Work\Desktop\TIC TAC TOE\bin\Debug\Alien Invaders.exe.config
+C:\Users\Work\Desktop\TIC TAC TOE\bin\Debug\Alien Invaders.exe
+C:\Users\Work\Desktop\TIC TAC TOE\bin\Debug\Alien Invaders.pdb
+C:\Users\malyn\OneDrive\Рабочий стол\TIC TAC TOE12\bin\Debug\Alien Invaders.exe.config
+C:\Users\malyn\OneDrive\Рабочий стол\TIC TAC TOE12\bin\Debug\Alien Invaders.exe
+C:\Users\malyn\OneDrive\Рабочий стол\TIC TAC TOE12\bin\Debug\Alien Invaders.pdb
+C:\Users\malyn\OneDrive\Рабочий стол\TIC TAC TOE12\obj\Debug\coursework.csproj.AssemblyReference.cache
+C:\Users\malyn\OneDrive\Рабочий стол\TIC TAC TOE12\obj\Debug\TicTacToe.Form1.resources
+C:\Users\malyn\OneDrive\Рабочий стол\TIC TAC TOE12\obj\Debug\Alien_Invaders.frmLogin.resources
+C:\Users\malyn\OneDrive\Рабочий стол\TIC TAC TOE12\obj\Debug\Alien_Invaders.frmRegister.resources
+C:\Users\malyn\OneDrive\Рабочий стол\TIC TAC TOE12\obj\Debug\Alien_Invaders.Properties.Resources.resources
+C:\Users\malyn\OneDrive\Рабочий стол\TIC TAC TOE12\obj\Debug\coursework.csproj.GenerateResource.cache
+C:\Users\malyn\OneDrive\Рабочий стол\TIC TAC TOE12\obj\Debug\coursework.csproj.CoreCompileInputs.cache
+C:\Users\malyn\OneDrive\Рабочий стол\TIC TAC TOE12\obj\Debug\Alien Invaders.exe
+C:\Users\malyn\OneDrive\Рабочий стол\TIC TAC TOE12\obj\Debug\Alien Invaders.pdb
+C:\Users\malyn\OneDrive\Рабочий стол\TIC TAC TOE12\obj\Debug\Alien_Invaders.Statistic.resources
+C:\Users\Andriy\Desktop\TIC TAC TOE12\bin\Debug\Alien Invaders.exe.config
+C:\Users\Andriy\Desktop\TIC TAC TOE12\bin\Debug\Alien Invaders.exe
+C:\Users\Andriy\Desktop\TIC TAC TOE12\bin\Debug\Alien Invaders.pdb
+C:\Users\Andriy\Desktop\TIC TAC TOE12\obj\Debug\coursework.csproj.AssemblyReference.cache
+C:\Users\Andriy\Desktop\TIC TAC TOE12\obj\Debug\coursework.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andriy\Desktop\TIC TAC TOE12\obj\Debug\TicTacToe.Form1.resources
+C:\Users\Andriy\Desktop\TIC TAC TOE12\obj\Debug\Alien_Invaders.frmLogin.resources
+C:\Users\Andriy\Desktop\TIC TAC TOE12\obj\Debug\Alien_Invaders.frmRegister.resources
+C:\Users\Andriy\Desktop\TIC TAC TOE12\obj\Debug\Alien_Invaders.Properties.Resources.resources
+C:\Users\Andriy\Desktop\TIC TAC TOE12\obj\Debug\Alien_Invaders.Statistic.resources
+C:\Users\Andriy\Desktop\TIC TAC TOE12\obj\Debug\coursework.csproj.GenerateResource.cache
+C:\Users\Andriy\Desktop\TIC TAC TOE12\obj\Debug\coursework.csproj.CoreCompileInputs.cache
+C:\Users\Andriy\Desktop\TIC TAC TOE12\obj\Debug\Alien Invaders.exe
+C:\Users\Andriy\Desktop\TIC TAC TOE12\obj\Debug\Alien Invaders.pdb
